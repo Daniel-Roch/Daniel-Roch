@@ -20,4 +20,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-roch&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=daniel-roch&show_icons=true&locale=en)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-roch&show_icons=true&theme=radical)
