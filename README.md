@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/daniel-de-lemos-rocha-dev)
 
 # Um pouco sobre mim
-### Atualmente estou em uma transição de carreira: da área administração de empresa, que me formei, para a área de tecnologia. 
+### Atualmente estou em uma transição de carreira: da área administrativa, que me formei, para a área de tecnologia. 
 ### Ambas as áreas podem parecer totalmente diferentes, mas podem, e devem, fortalecer os laços de como uma ajudaria a outra com inovação e melhorias para a sociedade. 
 ### Me descobri na área de tecnologia pela oportunidade que encontrei com o curso Full Stack Dev Resilia em 6 meses, a chance perfeita para iniciar minha carreira, pois agora posso aprender as principais competências que o mercado de trabalho exige e tenho caminhos abertos seguir em frente com minhas próprias pernas.
 
