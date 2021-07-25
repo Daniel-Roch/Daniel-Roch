@@ -4,11 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/daniel-de-lemos-rocha-dev)
 
 # Um pouco sobre mim
-### Atualmente estou passando por uma transição de carreira: saindo da área administrativa, na qual me formei, para a área de tecnologia. 
-### Hoje tento migrar para esta área, da qual sempre sonhei em fazer parte. Tive uma grande oportunidade devido ao curso: Full Stack Dev Resilia em 6 meses, e era a chance perfeita para iniciar minha carreira, pois agora posso aprender as principais competências que o mercado de trabalho exige e tenho caminhos abertos a seguir em frente com minhas próprias pernas.
+### Atualmente estou passando por uma `transição` de carreira: saindo da área `administrativa`, na qual me formei, para a área de `tecnologia`. 
+### Hoje tento migrar para esta área, da qual sempre sonhei em fazer parte. Tive uma grande oportunidade devido ao curso `Full Stack Dev Resilia` em 6 meses, e era a chance perfeita para iniciar minha carreira, pois agora posso aprender as principais competências que o mercado de trabalho exige e tenho caminhos abertos para seguir em frente com minhas próprias pernas.
 
 ## Aprendendo
-- 🌱 Atualmente estrou aprendendo: **Python e C#**
+- 🌱 Atualmente estou também aprendendo um pouco de : **Python e C#**
 
 
 # 🛠️ Skills
