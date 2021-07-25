@@ -17,4 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-roch&show_icons=true&locale=en" alt="daniel-roch" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-roch&show_icons=true&theme=radical)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-roch&" alt="daniel-roch" /></p>
