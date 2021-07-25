@@ -1,3 +1,4 @@
+<h1 align="center">Hello World! 👋 Daniel Rocha Aqui!</h1>
 <h3 align="center">Estou em uma transição de carreira: da área administração de empresa, que me formei, para a área de tecnologia. Ambas as áreas podem parecer totalmente diferentes, mas podem, e devem, fortalecer os laços de como uma ajudaria a outra com inovação e melhorias para a sociedade. Me descobri na área de tecnologia pela oportunidade que encontrei com o curso Full Stack Dev Resilia em 6 meses, a chance perfeita para iniciar minha carreira, pois agora posso aprender as principais competências que o mercado de trabalho exige e tenho caminhos abertos seguir em frente com minhas próprias pernas.</h3>
 
 - 🌱 Atualmente estrou aprendendo: **Python e C#**
