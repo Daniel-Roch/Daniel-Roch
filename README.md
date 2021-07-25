@@ -8,7 +8,7 @@
 ### Hoje tento migrar para esta área, da qual sempre sonhei em fazer parte. Tive uma grande oportunidade devido ao curso `Full Stack Dev Resilia` em 6 meses, e era a chance perfeita para iniciar minha carreira, pois agora posso aprender as principais competências que o mercado de trabalho exige e tenho caminhos abertos para seguir em frente com minhas próprias pernas.
 
 ## Aprendendo
-- 🌱 Atualmente estou também aprendendo um pouco de : **Python e C#**
+- 🌱 Atualmente estou aprendendo: **Python e C#**
 
 
 # 🛠️ Skills
