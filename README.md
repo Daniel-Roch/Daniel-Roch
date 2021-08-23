@@ -1,4 +1,3 @@
-<a href="https://github.com/Daniel-Roch">
 # Hello World! 👋 Daniel Rocha Aqui!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Daniel-Roch)
@@ -20,4 +19,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Roch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Roch&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-</a>
